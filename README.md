@@ -4,7 +4,7 @@ I'm a passionate **Web Developer** currently pursuing my Integrated M.Tech in Co
 
 ## 🎓 Education
 - 📚 **VIT, Vellore** - Integrated M.Tech in Computer Science and Engineering (2020-2025)
-  - 🔥 Current CGPA: 8.55
+  - 🔥 Current CGPA: 8.59
 
 ## 💼 Internship
 - 👨‍💻 **Ethnus** - MERN Stack Internship (June 2023 - July 2023)
@@ -12,6 +12,11 @@ I'm a passionate **Web Developer** currently pursuing my Integrated M.Tech in Co
   - 🚀 Actively collaborated with a cross-functional team to build a full-stack project.
 
 ## 🚀 Projects
+
+- 🌐 **Evently - Comprehensive Event Management Platform** (July 2022 – September 2022)
+  -🤖 Led development on Next.js 14 for a robust event management platform with Stripe integration.
+  -⚙️ Implemented features including user authentication, CRUD operations for events, and seamless payment processing.
+
 - 🌐 **Let’s Vote - Online Voting and Polling System** (May 2023 – July 2023)
   - 💡 Developed a MERN-based online polling and voting system for real-time engagement.
   - 📊 Implemented end-to-end features for user authentication, dynamic poll creation, and result visualization.
