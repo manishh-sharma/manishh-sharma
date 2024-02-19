@@ -13,7 +13,7 @@ I'm a passionate **Web Developer** currently pursuing my Integrated M.Tech in Co
 
 ## 🚀 Projects
 
-- 🌐 **Evently - Comprehensive Event Management Platform** (July 2022 – September 2022)
+- 🌐 **Evently - Comprehensive Event Management Platform** (January 2024 – February 2024)
   -🤖 Led development on Next.js 14 for a robust event management platform with Stripe integration.
   -⚙️ Implemented features including user authentication, CRUD operations for events, and seamless payment processing.
 
